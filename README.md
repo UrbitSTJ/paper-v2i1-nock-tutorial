@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# Nock for Everyday Coders
+
+Tim Galebach ~timluc-miptev. *Urbit Systems Technical Journal* 2(1), 2025.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389638.svg)](https://doi.org/10.5281/zenodo.24389638) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v02-i01/nock-for-everyday-coders)
+<!-- /ustj-doi -->
+
 # Urbit Systems Technical Journal—Template Repo
 
 Welcome, prospective USTJ author.  Please keep the following in mind:
